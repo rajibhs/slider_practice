@@ -1,5 +1,9 @@
 /*Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) {
+	  .menu ul li a{
+	    padding-right:0;
+	    text-align:right;
+	}
     .slider{
         padding: 20px 0 70px;
     }
@@ -19,6 +23,10 @@
     .slider{
         padding: 20px 0 70px;
     }
+	  .menu ul li a{
+	    padding-right:0;
+	    text-align:right;
+	}
 	.s_img img{
         display: none;
     }
@@ -35,6 +43,10 @@
     .slider{
         padding: 50px 0 100px;
     }
+    .menu ul li a{
+	    padding-right:0;
+	    text-align:right;
+	}
     .s_img img{
         display: none;
     }
