@@ -1,7 +1,7 @@
 /*Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) {
 	  .menu ul li a{
-	    padding-right:0;
+	    padding-right:0 !important;
 	    text-align:right;
 	}
     .slider{
@@ -24,7 +24,7 @@
         padding: 20px 0 70px;
     }
 	  .menu ul li a{
-	    padding-right:0;
+	    padding-right:0 !important;
 	    text-align:right;
 	}
 	.s_img img{
@@ -44,7 +44,7 @@
         padding: 50px 0 100px;
     }
     .menu ul li a{
-	    padding-right:0;
+	    padding-right:0 !important;
 	    text-align:right;
 	}
     .s_img img{
